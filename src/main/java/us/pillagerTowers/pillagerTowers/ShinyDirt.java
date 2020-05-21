@@ -1,6 +1,6 @@
-package us.pillaterTowers.pillagerTowers;
+package us.pillagerTowers.pillagerTowers;
 
-import net.minecraft.block.Block; // You're beyond sucking
+import net.minecraft.block.Block; // You're mother
 
 public class ShinyDirt extends Block {
 
